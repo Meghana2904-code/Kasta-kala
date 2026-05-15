@@ -112,25 +112,25 @@ kashta-kala/
 
 ## 🏠 Home Dashboard
 
-<img src="screenshots/homepage.jpeg" width="300"/>
+
 
 ---
 
 ## 🪑 Furniture Catalog
 
-<img src="screenshots/catalog.jpeg" width="300"/>
+
 
 ---
 
 ## 📐 Material Estimator
 
-<img src="screenshots/estimator.jpeg" width="300"/>
+
 
 ---
 
 ## 💰 Quotation Generator
 
-<img src="screenshots/quotation.jpeg" width="300"/>
+
 
 ---
 
