@@ -313,9 +313,9 @@ During the development of this project, the following skills were improved:
 
 # 👨‍💻 Developer
 
-## Akshan Kulal
+## Meghana S
 
-B.E. Computer Science & Engineering  
+B.E. Computer Science & Engineering(iot)  
 Sir M. Visvesvaraya Institute of Technology, Bengaluru  
 
 **MindMatrix VTU Internship Program — 2026**
@@ -340,12 +340,8 @@ This project is developed for academic and internship evaluation purposes only.
 
 ---
 
-# 📬 Contact
 
-For suggestions or collaboration:
 
-- GitHub: https://github.com/your-username
-- Email: your-email@example.com
 
 ---
 
